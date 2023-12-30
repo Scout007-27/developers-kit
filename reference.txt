@@ -38,6 +38,7 @@
     "alefragnani.Bookmarks",
     "sdras.vue-vscode-snippets",
     "editorconfig.editorconfig",
+    "ms-dotnettools.dotnet-interactive-vscode"
 
     // Remote development and terminal
     "formulahendry.code-runner",

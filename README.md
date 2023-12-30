@@ -42,6 +42,7 @@ This extension pack includes a collection of extensions that aims to enhance the
   - `alefragnani.Bookmarks`
   - `sdras.vue-vscode-snippets`
   - `editorconfig.editorconfig`
+  - `ms-dotnettools.dotnet-interactive-vscode`
 
 - **Running code and remote development**
   - `formulahendry.code-runner`
