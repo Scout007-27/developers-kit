@@ -1,0 +1,59 @@
+
+  "extensionPack": [
+    //Intellisense 
+    "visualstudioexptteam.vscodeintellicode"
+    "christian-kohler.path-intellisense"
+
+    // Themes
+    "davidbwaters.macos-modern-theme",
+    "pkief.material-product-icons",
+    "equinusocio.vsc-material-theme",
+    "pkief.material-icon-theme",
+    "felipe-mendes.slack-theme",
+
+    // Git and GitHub related
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "waderyan.gitblame",
+    "felipecaputo.git-project-manager",
+    "codezombiech.gitignore",
+    "srmeyers.git-prefix",
+    "ziyasal.vscode-open-in-github",
+    "shaharkazaz.git-merger",
+    "reduckted.vscode-gitweblinks",
+    "howardzuo.vscode-git-tags",
+    "adam-bender.commit-message-editor",
+    "teledemic.branch-warnings",
+    "me-dutour-mathieu.vscode-github-actions",
+    "github.codespaces",
+    "github.vscode-pull-request-github",
+    "github.remotehub",
+    "github.vscode-github-actions",
+
+    // Code editing and navigation
+    "CoenraadS.bracket-pair-colorizer",
+    "streetsidesoftware.code-spell-checker",
+    "Tyriar.sort-lines",
+    "alefragnani.Bookmarks",
+    "sdras.vue-vscode-snippets",
+    "editorconfig.editorconfig",
+
+    // Remote development and terminal
+    "formulahendry.code-runner",
+    "nguyenngoclong.terminal-keeper",
+    "ms-vscode.remote-repositories",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode.remote-explorer",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+
+    // Collaboration
+    "ms-vsliveshare.vsliveshare",
+
+    // Markdown and documentation
+    "ms-vscode.wordcount",
+    "yzhang.markdown-all-in-one",
+    "christian-kohler.path-intellisense",
+    "ban.spellright"
+  ]
+

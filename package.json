@@ -1,0 +1,67 @@
+{
+  "name": "developers-kit",
+  "publisher": "Toolkits",
+  "displayName": "Developers_Kit",
+  "description": "A comprehensive collection of extensions enhancing the overall development experience in VSCode, covering code navigation, editing, collaboration, and Markdown tools.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "visualstudioexptteam.vscodeintellicode",
+    "christian-kohler.path-intellisense",
+    "davidbwaters.macos-modern-theme",
+    "pkief.material-product-icons",
+    "equinusocio.vsc-material-theme",
+    "pkief.material-icon-theme",
+    "felipe-mendes.slack-theme",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "waderyan.gitblame",
+    "felipecaputo.git-project-manager",
+    "codezombiech.gitignore",
+    "srmeyers.git-prefix",
+    "ziyasal.vscode-open-in-github",
+    "shaharkazaz.git-merger",
+    "reduckted.vscode-gitweblinks",
+    "howardzuo.vscode-git-tags",
+    "adam-bender.commit-message-editor",
+    "teledemic.branch-warnings",
+    "me-dutour-mathieu.vscode-github-actions",
+    "github.codespaces",
+    "github.vscode-pull-request-github",
+    "github.remotehub",
+    "github.vscode-github-actions",
+    "CoenraadS.bracket-pair-colorizer",
+    "streetsidesoftware.code-spell-checker",
+    "Tyriar.sort-lines",
+    "alefragnani.Bookmarks",
+    "sdras.vue-vscode-snippets",
+    "editorconfig.editorconfig",
+    "formulahendry.code-runner",
+    "nguyenngoclong.terminal-keeper",
+    "ms-vscode.remote-repositories",
+    "ms-vscode-remote.remote-ssh-edit",
+    "ms-vscode.remote-explorer",
+    "ms-vscode-remote.vscode-remote-extensionpack",
+    "ms-vsliveshare.vsliveshare",
+    "ms-vscode.wordcount",
+    "yzhang.markdown-all-in-one",
+    "ban.spellright"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scout007-27/developers-kit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scout007-27/developers-kit/issues"
+  },
+  "homepage": "https://github.com/Scout007-27/developers-kit#readme"
+}
