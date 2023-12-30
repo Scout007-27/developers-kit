@@ -5,7 +5,7 @@
 
 ## `[0.0.2] - 2023-12-30`
 ### Added
-- Added polygot notebook extension.
+- Added polygot notebook and docker extension.
 
 ## `[0.0.1] - 2023-12-30`
 ### Added

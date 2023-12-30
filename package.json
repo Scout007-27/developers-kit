@@ -3,7 +3,7 @@
   "publisher": "Toolkits",
   "displayName": "Developers_Kit",
   "description": "A comprehensive collection of extensions enhancing the overall development experience in VSCode, covering code navigation, editing, collaboration, and Markdown tools.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -52,7 +52,15 @@
     "ms-vsliveshare.vsliveshare",
     "ms-vscode.wordcount",
     "yzhang.markdown-all-in-one",
-    "ban.spellright"
+    "ban.spellright",
+    "ms-azuretools.vscode-docker",
+    "formulahendry.docker-explorer",
+    "george3447.docker-run",
+    "sandipchitale.docker-dive",
+    "jeff-hykin.better-dockerfile-syntax",
+    "jonrad.docker-diary-vscode",
+    "p1c2u.docker-compose",
+    "igorjrd.docker-stats"
   ],
   "repository": {
     "type": "git",

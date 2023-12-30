@@ -60,6 +60,16 @@ This extension pack includes a collection of extensions that aims to enhance the
   - `yzhang.markdown-all-in-one`
   - `ban.spellright`
 
+- **Docker Containers**
+  - `ms-azuretools.vscode-docker`
+  - `formulahendry.docker-explorer`
+  - `george3447.docker-run`
+  - `sandipchitale.docker-dive`
+  - `jeff-hykin.better-dockerfile-syntax`
+  - `jonrad.docker-diary-vscode`
+  - `p1c2u.docker-compose`
+  - `igorjrd.docker-stats`
+
 ## Enjoy!
 
 I hope you find these extensions helpful. If you have any suggestions or issues, feel free to open an issue on the GitHub repository.
